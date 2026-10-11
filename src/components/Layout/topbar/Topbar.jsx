@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../../assets/img/adc-logo.png";
+import Logo from "../../../assets/img/pic.jpeg";
 import ProfilePhoto from "../../../assets/img/3.jpg";
 
 export default function Topbar({ onMenuClick }) {

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "../../assets/img/adc-logo.png";
+import Logo from "../../assets/img/pic.jpeg";
 import WomanImg from "../../assets/img/woman.jpg";
 
 export default function Signin({ Button, RegInput }) {

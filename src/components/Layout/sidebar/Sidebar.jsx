@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "../../../assets/img/adc-logo.png";
+import Logo from "../../../assets/img/pic.jpeg";
 
 export default function Sidebar({ isOpen, onOpen, onClose }) {
   return (
