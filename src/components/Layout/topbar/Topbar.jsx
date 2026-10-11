@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "../../../assets/img/pic.jpeg";
-import ProfilePhoto from "../../../assets/img/3.jpg";
+import ProfilePhoto from "../../../assets/img/newman.webp";
 
 export default function Topbar({ onMenuClick }) {
   const adminName = "John Doe";
